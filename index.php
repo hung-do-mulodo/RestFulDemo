@@ -6,6 +6,7 @@
     </head>
     <body>
         <?php
+        echo 'What the f*K'
         // put your code here
         ?>
     </body>

@@ -12,6 +12,7 @@
  */
 class class2 {
     //put your code here
+    
 }
 
 ?>
